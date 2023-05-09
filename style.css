@@ -37,6 +37,9 @@ footer {
 }
 
 img {
-  max-width: 20%;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 200px;
   height: auto;
 }
