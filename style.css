@@ -37,7 +37,7 @@ footer {
     margin-bottom: 0;
 }
 
-img {
+.profile-image {
   position: absolute;
   top: 20px;
   right: 20px;
